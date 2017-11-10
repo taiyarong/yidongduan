@@ -1,0 +1,16 @@
+/*
+* @Author: taiyarong
+* @Date:   2017-11-10 22:28:29
+* @Last Modified by:   taiyarong
+* @Last Modified time: 2017-11-10 22:38:58
+*/
+.jiantou{
+	width: .44rem;
+	height: .44rem;
+	position: absolute;
+	left: .3rem;
+	top: .3rem;
+}
+.top-item{
+	position: relative;
+}

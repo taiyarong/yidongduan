@@ -1,0 +1,25 @@
+1 横竖屏限制问题    
+<meta name="x5-orientation" content="portrait | landscape" /> 
+ 只支持x5内核
+
+<meta name="screen-orientation" content="portrait">
+只支持uc浏览器
+
+2 全屏限制问题
+
+<meta name="x5-fullscreen" content="true" />  
+只支持x5内核
+
+
+<meta name="full-screen" content="yes">
+只支持uc浏览器 
+ 
+
+3 禁止识别电话号码和邮箱
+
+<meta name="format-detection" content="telephone=no, email=no" />
+禁止识别后页面当中所有的邮箱和电话将不会识别,如果有特殊需求,要配合一下代码实现   
+
+
+4 禁止用户设置字体大小
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">    

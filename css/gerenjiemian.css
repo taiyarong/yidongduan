@@ -1,0 +1,23 @@
+/*
+* @Author: taiyarong
+* @Date:   2017-11-10 18:11:44
+* @Last Modified by:   taiyarong
+* @Last Modified time: 2017-11-10 22:28:11
+*/
+.jiantou{
+	width: 1.6rem;
+	height: 1.6rem;
+	position: absolute;
+	left: .8rem;
+	top: 2.6rem;
+}
+.top-item{
+	position: relative;
+}
+.zhifu{
+	width: .55rem;
+	height: .44rem;
+	position: absolute;
+	left: 6.5rem;
+	top: .3rem;
+}

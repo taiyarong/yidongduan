@@ -1,0 +1,36 @@
+.box{
+	width: 100%;
+	position: relative;
+}
+.name{
+	width: 5.76rem;
+	height: .86rem;
+	position: absolute;
+	left: 2.4rem;
+	bottom: 8.6rem;
+	font-size: .24rem;
+	border: none;
+	outline: none;
+	background-color: #dee0e2;
+}
+.password{
+	width: 5.76rem;
+	height: .86rem;
+	position: absolute;
+	left: 2.4rem;
+	bottom: 7rem;
+	font-size: .24rem;
+	border: none;
+	outline: none;
+	background-color: #dee0e2;
+}
+.login{
+	width: 4rem;
+	height: 1rem;
+	position: absolute;
+	left: 3rem;
+	bottom: 3rem;
+	background: none;
+	border: none;
+	outline: none;
+}

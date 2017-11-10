@@ -1,0 +1,20 @@
+1、980px   移动端浏览器窗口默认尺寸
+											文字大小
+2、device       375pt   逻辑像素         1      50
+   iphone6设计  750px   物理像素         2      100
+   	2px=1pt
+
+
+   	rem单位实现适配   1rem是根据html的字体大小
+   	如:
+   	fontsize=100px
+   	7.5rem=750px
+   	
+
+
+物理像素：设备像素，在同一设备上他的物理像素是一定的
+
+position: fixed; 固定定位
+
+
+overflow-y: scroll;y轴方向滑动

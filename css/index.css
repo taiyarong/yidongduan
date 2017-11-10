@@ -1,0 +1,101 @@
+*{
+	background-color: #242e46;	
+}
+body{
+	padding: 0 .24rem;
+}
+.logo{
+	width: 100%;
+	height: 1.38rem;
+}
+.logo img{
+	width: 1.03rem;
+	height: 1rem;
+	margin: 0.19rem auto;
+}	
+.heng{
+	width: 100%;
+	margin: 0 auto;
+	background-color: red;
+}
+.heng-wenzi{
+	width: 100%;
+	height: .78rem;
+}
+.heng-wenzi1{
+	width: 1.80rem;
+	height: .40rem;
+	margin: 0 auto;
+	margin-top: -.40rem;
+	font-size: .18rem;
+	color: #fff;
+	line-height: .40px;
+	text-align: center;
+}
+.heng-dian{
+	width: 2.48rem;
+	height: .78rem;	
+}
+.dian1{
+	width: .09rem;
+	height: .09rem;
+	background-color: #1fe19a;
+	float: right;
+	margin-top: .40rem; 
+}
+.main-top{
+	width: 100%;
+	height: 1rem;
+}
+.main-item{
+	width: 100%;
+	height: 8.50rem;
+	margin-top: .2rem;
+}
+.main-wenzi{
+	width: 1.96rem;
+	height: .96rem;
+	margin: 0 auto;
+	margin-top: .09rem;
+}
+.mainitem2{
+	font-size: .14rem;
+	text-align: center;
+	font-weight: bolder;
+	background: linear-gradient(to left,#1fe19a,#2577fd);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.main-nav{
+	width: 100%;
+	height: 2.28rem;
+	margin-top: .2rem;
+}
+.main-item3{
+	width: 3.4rem;
+	height: 100%;
+	background-color: yellowgreen;
+	float: left;
+
+}
+.main-item5{
+	width: 3.4rem;
+	height: 100%;
+	background-color: yellowgreen;
+	float: right;
+	
+}
+.main-item4{
+	font-size: .28rem
+}
+.bommen{
+	width: 100%;
+	height: 1.2rem;
+}
+.bom-item1{
+	width: .6rem;
+	height: .6rem;
+	margin-left: .9rem;
+	float: left;
+	margin-top: .2rem;
+}
